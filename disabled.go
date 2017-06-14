@@ -1,4 +1,4 @@
-// +build disablemetrics
+// +build noexpvarmetrics
 
 package metrics
 
